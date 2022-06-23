@@ -7,3 +7,4 @@ global_earthquakes.html
 global_earthquakes_30_day.html
 .DS_Store
 python_repos.html
+data/readable_hn_data.json
